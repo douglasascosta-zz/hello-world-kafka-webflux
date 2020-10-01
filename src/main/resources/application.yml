@@ -1,0 +1,5 @@
+spring.application.name: hello-world-kafka
+spring:
+  kafka:
+    template:
+      default-topic: default-topic
